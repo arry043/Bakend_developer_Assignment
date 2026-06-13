@@ -85,7 +85,7 @@ Swagger UI is available at `/api/v1/docs` when the server is running.
 | `REDIS_URL` | Redis connection string | `redis://localhost:6379` | Yes |
 | `ACCESS_TOKEN_SECRET` | JWT access secret | - | Yes |
 | `REFRESH_TOKEN_SECRET`| JWT refresh secret | - | Yes |
-| `VITE_API_URL` | Frontend API URL | `http://localhost:5000/api/v1` | Yes |
+| `VITE_API_URL` | Frontend API URL | `http://localhost:5000/api/v1` | Yes | 
 
 ## Scalability & Architecture Decisions
 
