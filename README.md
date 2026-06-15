@@ -35,7 +35,7 @@ graph LR
 
 ## Tech Stack
 
-| Layer | Technology | Version |
+| Layer | Technology | Version | 
 | --- | --- | --- |
 | **Backend** | Node.js, Express | 20+, 4.x |
 | **Database** | PostgreSQL, Prisma ORM | 15, 5.x |
