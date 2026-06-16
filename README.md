@@ -63,7 +63,7 @@ graph LR
 3. `npm install`
 4. `npx prisma migrate dev --name init`
 5. `node prisma/seed.js`
-6. `npm run dev`
+6. `npm run dev`   
 7. `cd ../client && cp .env.example .env`
 8. `npm install && npm run dev`
 
